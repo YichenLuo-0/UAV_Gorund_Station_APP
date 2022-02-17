@@ -72,7 +72,11 @@ public class MapManager extends Manager implements MapActivityState.StateChangeL
         // 设置定位蓝点的Style
         aMap.setMyLocationStyle(myLocationStyle);
         // 设置默认定位按钮是否显示，非必需设置。
-        aMap.getUiSettings().setMyLocationButtonEnabled(true);
+        aMap.getUiSettings().setMyLocationButtonEnabled(false);
+        // 不显示缩放按钮、指南针，禁止旋转
+        aMap.getUiSettings().setRotateGesturesEnabled(false);
+        aMap.getUiSettings().setZoomControlsEnabled(false);
+        aMap.getUiSettings().setCompassEnabled(false);
         // 设置为true表示启动显示定位蓝点，false表示隐藏定位蓝点并不进行定位，默认是false。
         aMap.setMyLocationEnabled(true);
         // 添加选点连线
@@ -147,6 +151,10 @@ public class MapManager extends Manager implements MapActivityState.StateChangeL
         for (int i = 0; i < pointManager.getCoordNum(); i++) {
             addPointToMap(pointManager.getCoord(i), i + 1);
         }
+    }
+
+    public void locationUser() {
+
     }
 
     /**

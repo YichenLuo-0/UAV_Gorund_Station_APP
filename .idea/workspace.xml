@@ -19,7 +19,7 @@
       <change beforePath="$PROJECT_DIR$/.gradle/7.3-rc-1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3-rc-1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/7.3-rc-1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3-rc-1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_map.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_map.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/uav_app/front_end/map_activity/managers/MapManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/uav_app/front_end/map_activity/managers/MapManager.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,13 +232,6 @@
       <option name="presentableId" value="Default" />
       <updated>1604240815987</updated>
       <workItem from="1606379971215" duration="102000" />
-    </task>
-    <task id="LOCAL-00033" summary="1.21">
-      <created>1642744367145</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1642744367145</updated>
     </task>
     <task id="LOCAL-00034" summary="1.22">
       <created>1642827299831</created>
@@ -576,7 +569,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645104163791</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="2.17">
+      <created>1645104558966</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1645104558966</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
