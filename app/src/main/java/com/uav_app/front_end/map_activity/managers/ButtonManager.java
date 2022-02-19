@@ -28,6 +28,8 @@ public class ButtonManager extends Manager implements MapActivityState.StateChan
         params.topMargin = topMargin;
         params.bottomMargin = bottomMargin;
         buttons.requestLayout();
+        menuButton.setOnClickListener(v -> {
+        });
     }
 
     @Override
