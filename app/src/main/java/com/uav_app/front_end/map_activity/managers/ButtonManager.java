@@ -28,6 +28,7 @@ public class ButtonManager extends Manager implements MapActivityState.StateChan
         params.topMargin = topMargin;
         params.bottomMargin = bottomMargin;
         buttons.requestLayout();
+        // 设置菜单按钮点击事件
         menuButton.setOnClickListener(v -> {
         });
     }
