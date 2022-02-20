@@ -14,11 +14,14 @@ public class ButtonManager extends Manager implements MapActivityState.StateChan
     private final FrameLayout buttons;
     // 菜单按钮
     private final Button menuButton;
+    // 定位地面站按钮
+    private final Button locationButton;
 
     public ButtonManager(MapActivity activity) {
         super(activity, 0x03);
         buttons = activity.findViewById(R.id.button);
         menuButton = activity.findViewById(R.id.menu);
+        locationButton = activity.findViewById(R.id.location);
     }
 
     public void init(Connector connector, int topMargin, int bottomMargin) {
