@@ -34,6 +34,8 @@ public class ButtonManager extends Manager implements MapActivityState.StateChan
         // 设置菜单按钮点击事件
         menuButton.setOnClickListener(v -> {
         });
+        locationButton.setOnClickListener(v -> {
+        });
     }
 
     @Override
