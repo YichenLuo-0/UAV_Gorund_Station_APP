@@ -26,9 +26,10 @@
       <root url="file://D:/Android/Gradle/caches/transforms-3/d12df537743ee72810392fde093e7517/transformed/versionedparcelable-1.1.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/d12df537743ee72810392fde093e7517/transformed/versionedparcelable-1.1.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/6bd07f28898eee8b1cf6fc99ea684440/transformed/versionedparcelable-1.1.0/res" />
-      <root url="file://D:/Android/Gradle/caches/transforms-3/9520ce7c6745d021d653c359e53ba125/transformed/versionedparcelable-1.1.0/AndroidManifest.xml" />
       <root url="file://D:/Android/Gradle/caches/transforms-3/9520ce7c6745d021d653c359e53ba125/transformed/versionedparcelable-1.1.0/res" />
-      <root url="jar://D:/Android/Gradle/caches/transforms-3/9520ce7c6745d021d653c359e53ba125/transformed/versionedparcelable-1.1.0/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-3/8c1fa828d015ee49713f8447215a54a3/transformed/versionedparcelable-1.1.0/res" />
+      <root url="jar://D:/Android/Gradle/caches/transforms-3/8c1fa828d015ee49713f8447215a54a3/transformed/versionedparcelable-1.1.0/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-3/8c1fa828d015ee49713f8447215a54a3/transformed/versionedparcelable-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

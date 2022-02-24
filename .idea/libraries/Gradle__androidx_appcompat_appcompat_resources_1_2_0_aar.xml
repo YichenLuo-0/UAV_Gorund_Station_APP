@@ -13,9 +13,9 @@
       <root url="jar://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-3/45c220bbdc4c7dd22995450b14b84b3d/transformed/jetified-appcompat-resources-1.2.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-3/45c220bbdc4c7dd22995450b14b84b3d/transformed/jetified-appcompat-resources-1.2.0/res" />
       <root url="file://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-3/45c220bbdc4c7dd22995450b14b84b3d/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml" />
-      <root url="file://D:/Android/Gradle/caches/transforms-3/ae0621b01aea3b99d1ec51e077e1fe47/transformed/jetified-appcompat-resources-1.2.0/res" />
-      <root url="jar://D:/Android/Gradle/caches/transforms-3/ae0621b01aea3b99d1ec51e077e1fe47/transformed/jetified-appcompat-resources-1.2.0/jars/classes.jar!/" />
-      <root url="file://D:/Android/Gradle/caches/transforms-3/ae0621b01aea3b99d1ec51e077e1fe47/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml" />
+      <root url="jar://D:/Android/Gradle/caches/transforms-3/e7151f905bb6a7b9576bb4cb2e0f4af9/transformed/jetified-appcompat-resources-1.2.0/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-3/e7151f905bb6a7b9576bb4cb2e0f4af9/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml" />
+      <root url="file://D:/Android/Gradle/caches/transforms-3/e7151f905bb6a7b9576bb4cb2e0f4af9/transformed/jetified-appcompat-resources-1.2.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

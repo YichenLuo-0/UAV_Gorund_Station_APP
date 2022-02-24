@@ -5,7 +5,7 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/3b91b187821fc6e4f6300506297b769e/jetified-viewpager2-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../../../../Gradel/caches/transforms-2/files-2.1/3b91b187821fc6e4f6300506297b769e/jetified-viewpager2-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-3/6988d22cfd86768d06991b6f54ac7060/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
-      <root url="jar://D:/Android/Gradle/caches/transforms-3/d3d79a00e16bdb8f68da9b5e48fbc253/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
+      <root url="jar://D:/Android/Gradle/caches/transforms-3/513521c8dafd83eb73efb018b7231dda/transformed/jetified-viewpager2-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-2/files-2.1/1fa276bd61947c3e74ed195b3ad0a13b/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
@@ -20,9 +20,9 @@
       <root url="file://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-3/6988d22cfd86768d06991b6f54ac7060/transformed/jetified-viewpager2-1.0.0/res" />
       <root url="jar://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-3/6988d22cfd86768d06991b6f54ac7060/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-3/6988d22cfd86768d06991b6f54ac7060/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
-      <root url="file://D:/Android/Gradle/caches/transforms-3/d3d79a00e16bdb8f68da9b5e48fbc253/transformed/jetified-viewpager2-1.0.0/res" />
-      <root url="jar://D:/Android/Gradle/caches/transforms-3/d3d79a00e16bdb8f68da9b5e48fbc253/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
-      <root url="file://D:/Android/Gradle/caches/transforms-3/d3d79a00e16bdb8f68da9b5e48fbc253/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/Android/Gradle/caches/transforms-3/513521c8dafd83eb73efb018b7231dda/transformed/jetified-viewpager2-1.0.0/jars/classes.jar!/" />
+      <root url="file://D:/Android/Gradle/caches/transforms-3/513521c8dafd83eb73efb018b7231dda/transformed/jetified-viewpager2-1.0.0/res" />
+      <root url="file://D:/Android/Gradle/caches/transforms-3/513521c8dafd83eb73efb018b7231dda/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

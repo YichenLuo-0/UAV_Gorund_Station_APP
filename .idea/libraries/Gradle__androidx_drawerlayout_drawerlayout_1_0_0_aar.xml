@@ -5,7 +5,7 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../../../../Gradel/caches/transforms-2/files-2.1/90ad92d9d7e544d3d7a553e07e526cde/drawerlayout-1.0.0/annotations.zip!/" />
       <root url="jar://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-3/7a62311ca7070c70b34842d3e6c64b80/transformed/drawerlayout-1.0.0/annotations.zip!/" />
-      <root url="jar://D:/Android/Gradle/caches/transforms-3/4556e77174b4f82304d08ebda98457c4/transformed/drawerlayout-1.0.0/annotations.zip!/" />
+      <root url="jar://D:/Android/Gradle/caches/transforms-3/1cab0fe1bb53f20a5bc1c7cc9d089f01/transformed/drawerlayout-1.0.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
       <root url="file://$PROJECT_DIR$/../../../../Android/Gradle/caches/transforms-2/files-2.1/142e93d95da0344235eb82ee7f05a108/drawerlayout-1.0.0/res" />
@@ -34,8 +34,9 @@
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/fd884807bbd10a97f61e43ddb9f6b810/transformed/drawerlayout-1.0.0/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-3/64ea6b537c4cd25d6ea60620272d3317/transformed/drawerlayout-1.0.0/res" />
       <root url="file://D:/Android/Gradle/caches/transforms-3/4556e77174b4f82304d08ebda98457c4/transformed/drawerlayout-1.0.0/res" />
-      <root url="jar://D:/Android/Gradle/caches/transforms-3/4556e77174b4f82304d08ebda98457c4/transformed/drawerlayout-1.0.0/jars/classes.jar!/" />
-      <root url="file://D:/Android/Gradle/caches/transforms-3/4556e77174b4f82304d08ebda98457c4/transformed/drawerlayout-1.0.0/AndroidManifest.xml" />
+      <root url="file://D:/Android/Gradle/caches/transforms-3/1cab0fe1bb53f20a5bc1c7cc9d089f01/transformed/drawerlayout-1.0.0/res" />
+      <root url="file://D:/Android/Gradle/caches/transforms-3/1cab0fe1bb53f20a5bc1c7cc9d089f01/transformed/drawerlayout-1.0.0/AndroidManifest.xml" />
+      <root url="jar://D:/Android/Gradle/caches/transforms-3/1cab0fe1bb53f20a5bc1c7cc9d089f01/transformed/drawerlayout-1.0.0/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
