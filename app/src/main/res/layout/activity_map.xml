@@ -81,15 +81,15 @@
                 android:id="@+id/button6"
                 android:layout_width="wrap_content"
                 android:layout_height="38dp"
-                android:layout_marginTop="4dp"
-                android:layout_marginEnd="25dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginEnd="24dp"
                 android:background="@drawable/border_textview"
                 android:text="无人机"
                 android:textAlignment="center"
                 android:textColor="#555555"
                 android:textSize="16sp"
                 app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintTop_toBottomOf="@+id/button3" />
+                app:layout_constraintTop_toBottomOf="@+id/location" />
         </androidx.constraintlayout.widget.ConstraintLayout>
 
     </FrameLayout>

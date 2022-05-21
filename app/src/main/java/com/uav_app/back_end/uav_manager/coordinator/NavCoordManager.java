@@ -83,6 +83,8 @@ public class NavCoordManager {
         return coordinators.size();
     }
 
+    static int data = 2;
+
     public String getCoordDescription(int coordNum) {
         return "航点" + (coordNum + 1) + "\n" + coordinators.get(coordNum).toString();
     }

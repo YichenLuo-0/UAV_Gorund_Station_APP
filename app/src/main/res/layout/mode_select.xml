@@ -21,7 +21,7 @@
         android:layout_margin="5dp"
         android:layout_weight="0"
         android:background="@drawable/border_button_select"
-        android:text="@string/sendButtonText" />
+        android:text="发送航点" />
 
     <Button
         android:id="@+id/cancelButton"
@@ -30,7 +30,7 @@
         android:layout_margin="5dp"
         android:layout_weight="0"
         android:background="@drawable/border_button_warning"
-        android:text="@string/cancelButtonText" />
+        android:text="取消选择" />
 
     <ListView
         android:id="@+id/pointList"
